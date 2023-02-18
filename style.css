@@ -1,0 +1,37 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background: #e5e5e5;
+}
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    width: 1200px;
+    margin: 0 auto;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px 0px #0000001a;
+}
+.opis1 {
+    background: rgb(156, 199, 28);
+    margin: 20px;
+    padding: 40px;
+}
+.opis2 {
+    background: rgb(8, 181, 86);
+    margin: 30px;
+    padding: 10px;
+}
+.opis3 {
+    background: rgb(201, 22, 120);
+    margin: 10px;
+    padding: 20px;
+}
+li {
+    color: rgb(51, 177, 68);
+}
+h2 {
+    color: rgb(237, 20, 20);
+}
+.opis {
+    color: rgb(13, 82, 171);
+}
