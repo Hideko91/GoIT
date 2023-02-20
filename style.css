@@ -11,27 +11,45 @@ body {
     background: #ffffff;
     box-shadow: 6px 6px 20px 0px #0000001a;
 }
-.opis1 {
-    background: rgb(156, 199, 28);
-    margin: 20px;
-    padding: 40px;
+asaid {
+    width: 370px;
+    background: #1e2939;
 }
-.opis2 {
-    background: rgb(8, 181, 86);
-    margin: 30px;
-    padding: 10px;
+.cv-photo {
+    margin-top: 40px;
 }
-.opis3 {
-    background: rgb(201, 22, 120);
-    margin: 10px;
-    padding: 20px;
+.headers-secondary {
+    color: #ffffff;
 }
-li {
-    color: rgb(51, 177, 68);
+.contacts-links {
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 24px;
 }
-h2 {
-    color: rgb(237, 20, 20);
+.bolt {
+    font-weight: 700;
 }
-.opis {
-    color: rgb(13, 82, 171);
+.list-secondary {
+    color: #fb6d3a;
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: inside;
+}
+.list-secondaty-item {
+    color: #ffffff;
+}
+.contacs-block {
+    margin-top: 51px;
+    margin-left: 40px;
+}
+.tech-block {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+.soft-block {
+    margin-top: 44px;
+    margin-left: 40px;
 }
